@@ -6,7 +6,7 @@ Just tried to build a small, quiet tools that solve my problems.
 
 ### Currently building
 
-💊 **[MedTracker](https://github.com/homumaki/my-med-today)** 
+💊 **[Sandglass](https://github.com/homumaki/my-med-today)** 
 
 
 an Android app for logging medication doses, written in Kotlin.
