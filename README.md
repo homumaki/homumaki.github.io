@@ -7,7 +7,7 @@ Just tried to build small, quiet tools that solve my problems.
 💊 **[Sandglass]**
 - An Android app for logging medication doses.
 - All data stays on user's device.
-- No ads, no tracking, no accounts.
+- Works entirely offline. No ads, no tracking, no accounts.
 
 📘 **[Booklog]**
 - An Android app for checking whether you already own a book.
