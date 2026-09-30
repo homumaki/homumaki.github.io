@@ -5,17 +5,17 @@ Just tried to build small, quiet tools that solve my problems.
 ### Currently building
 
 💊 **[Sandglass]**
-- An Android app for logging medication doses.
+- A super light Android app for logging medication doses.
 - All data stays on user's device.
 - Works entirely offline. No ads, no tracking, no accounts.
 
 📘 **[Booklog]**
-- An Android app for checking whether you already own a book.
+- A super light Android app for checking whether you already own a book.
 - Scan the ISBN barcode — it tells you if it's already in your library.
 - Works entirely offline. No ads, no tracking, no accounts.
 
 🗣️ **[TalkAlarm]**
-- An Android alarm that speaks the current time instead of playing a sound.
+- A super light Android alarm that speaks the current time instead of playing a sound.
 - Snooze and it tells you the new time. English, Thai and Japanese, or your own music.
 - Works entirely offline. No ads, no tracking, no accounts.
 
