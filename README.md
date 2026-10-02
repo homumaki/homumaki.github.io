@@ -1,6 +1,7 @@
 Not a developer at all 😂
 
 Just tried to build small, quiet tools that solve my problems.
+I have ADHD. All apps here were made to help lighten my life void 🥹
 
 ### Currently building
 
@@ -23,6 +24,11 @@ Just tried to build small, quiet tools that solve my problems.
 - A super light Android widget for logging what just happened. Tap, speak, done.
 - Every log is saved with the exact time you tapped, one plain text file per day.
 - Logs stay in a folder you choose. No ads, no tracking, no accounts.
+
+📂 **[FolderNest]**
+- A super light Android widget that fits a whole folder of apps into a small space.
+- Pick the apps, the layout and the colour. Resize it, and the icons resize with it.
+- Works entirely offline. No ads, no tracking, no accounts.
 
 ### Toolbox
 
