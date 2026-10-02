@@ -1,7 +1,7 @@
 Not a developer at all 😂
 
 Just tried to build small, quiet tools that solve my problems.<br>
-I have ADHD. All apps here were made to help lighten my life void 🥹
+I have ADHD. All apps here were made to help lighten up my life void 🥹
 
 ### Currently building
 
