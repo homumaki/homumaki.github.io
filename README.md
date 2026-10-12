@@ -30,6 +30,11 @@ I have ADHD. All apps here were made to help lighten my life void 🥹
 - Pick the apps, the layout and the colour. Resize it, and the icons resize with it.
 - Works entirely offline. No ads, no tracking, no accounts.
 
+☑️ **[PushToDo]**
+- A super light Android to-do list that lives on your home screen. Tap + to type, or tap the mic and speak.
+- Folders in your own colours, one widget per folder, reminders with Done and Snooze, and repeats on the days you pick.
+- Tasks stay on your device. No ads, no tracking, no accounts.
+
 ### Toolbox
 
 `Kotlin` `Python` `English`
